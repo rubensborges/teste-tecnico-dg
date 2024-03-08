@@ -1,6 +1,9 @@
 # Teste técnico da empresa Digital Growth
 
-## O teste se consistia em desenvolver um componente de menu, contendo os dados de um objeto separados por nome e subcategorias.
+<li>
+  O teste se consistia em desenvolver um componente de menu, contendo os dados de um objeto separados por nome e subcategorias.
+  
+</li>
 
 ## Cada um dos elementos dispostos na tela principal foram renderizados utilizando map pegando os valores das chaves "nome" do objeto.
 
