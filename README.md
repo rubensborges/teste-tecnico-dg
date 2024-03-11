@@ -1,5 +1,7 @@
 # Teste técnico da empresa Digital Growth
 
+Link para o deploy: https://rubensborges.dev/digital-growth/
+
 <li>
   O teste se consistia em desenvolver um componente de menu, contendo os dados de um objeto separados por nome e subcategorias.
 </li>
